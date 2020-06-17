@@ -1,0 +1,20 @@
+{
+  "name": "pinolog-to-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valonhaliti/pinolog-to-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valonhaliti/pinolog-to-mongo/issues"
+  },
+  "homepage": "https://github.com/valonhaliti/pinolog-to-mongo#readme"
+}
